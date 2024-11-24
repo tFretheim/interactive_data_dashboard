@@ -1,0 +1,23 @@
+[
+    {
+      "date": "2024-11-01",
+      "category": "Category 1",
+      "value": 10
+    },
+    {
+      "date": "2024-11-02",
+      "category": "Category 2",
+      "value": 25
+    },
+    {
+      "date": "2024-11-03",
+      "category": "Category 3",
+      "value": 15
+    },
+    {
+      "date": "2024-11-04",
+      "category": "Category 1",
+      "value": 30
+    }
+  ]
+  
